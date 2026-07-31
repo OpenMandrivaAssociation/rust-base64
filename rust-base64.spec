@@ -5,8 +5,8 @@
 %global crate base64
 
 Name:           rust-%{crate}
-Version:        0.11.0
-Release:        2%{?dist}
+Version:        0.23.0
+Release:        1%{?dist}
 Summary:        Encodes and decodes base64 as bytes or utf8
 
 # Upstream license specification: MIT/Apache-2.0
